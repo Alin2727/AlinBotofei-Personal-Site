@@ -1,0 +1,194 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 3;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+  font-size: 1.5rem;
+
+}
+
+p {
+  font-size: 19px;
+  color: #40514E;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 20%;
+}
+
+.navbar{
+  padding-top: 15px;
+}
+
+.nav-link{
+  padding: 0 3px;
+  
+}
+
+
+.top-container {
+  background-color: #EAF9F5;
+  position: relative;
+  padding: 0;
+  margin-top: 0;
+}
+
+.middle-container {
+  background-color: #66BFBF;
+  background-image: #66BFBF;
+}
+
+.bottom-container {
+  position: relative;
+  padding: 0;
+  margin: 0;
+
+}
+
+.mountain {
+  width: 40%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 100px;
+  top: 120px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 160px;
+  top: 10px;
+}
+
+.carousel-inner{
+  height: 500px;
+}
+
+.profile {
+  padding: 50px;
+  position: relative;
+  top: 10px;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+#studied {
+  text-align: center;
+  line-height: 2;
+  position: relative;
+  top: 20px;
+}
+
+#me {
+  border-radius: 50%;
+  width: 50%;
+}
+
+#hello {
+  width: 29%;
+  background-color: #fff;
+  border-radius: 50%;
+  position: relative;
+  bottom: 90px;
+  right: 10px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-align: center;
+  background-color: #EAF9F5;
+}
+
+.fotter {
+  background-color: #EAF9F5;
+  font-size: 25px;
+  word-spacing: 6px;
+  margin-bottom: 0;
+  padding: 10px;
+
+}
+
+.btn {
+  background: #11999E;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 100;
+  padding: 18px;
+  -webkit-box-shadow: 1px 1px 0 0 #000000;
+  -moz-box-shadow: 1px 1px 0 0 #000000;
+  box-shadow: 1px 1px 0 0 #000000;
+  text-shadow: 1px 1px 41px #000000;
+  border: solid #11999E 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.mountain {
+  width: 40%;
+}
+
+.photo{
+  width: 30%;
+  height:10%;
+
+  margin-top: 5%;
+
+}
+.portofolio{
+  padding: 50px 0 10px;
+}
+.skill-certificate{
+  padding: 10px;
+  margin: 10px;
+}
+
+.row{
+  padding: 20px 0 20px;
+}
+#final {
+  color: #66BFBF;
+  padding: 30px 0 10px;
+  margin: 0;
+}
