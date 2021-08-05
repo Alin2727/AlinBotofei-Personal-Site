@@ -128,12 +128,13 @@ hr {
   color: #11999E;
   text-align: center;
   background-color: #EAF9F5;
+  word-spacing: normal;
+  font-size: 20px;
+  padding: 0 7px;
 }
 
 .fotter {
   background-color: #EAF9F5;
-  font-size: 25px;
-  word-spacing: 6px;
   margin-bottom: 0;
   padding: 10px;
 }
@@ -182,7 +183,6 @@ hr {
 
 .row {
   padding: 30px 0 30px;
-  margin: 10px;
 }
 
 #final {
